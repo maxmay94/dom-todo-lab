@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  display: block;
+  margin: 10px auto;
+  position: relative;
+}
+
+#user-input, #submit-button {
+  display: inline-block;
+}
+
+#todo-list {
+  display : table;
+  margin: 10px auto;
+  text-align: left;
+}
